@@ -15,7 +15,8 @@ This repository holds no puzzles or solutions. It is where you tell us when some
 - a puzzle page does not load, or a file or image will not download;
 - an answer you are sure of is refused, or the answer box acts oddly;
 - signing in, your profile, an API token or the leaderboard does not work;
-- a puzzle text is unclear, or seems to contradict itself.
+- a puzzle text is unclear, or seems to contradict itself;
+- any other problem you have we can help you solve.
 
 Please include:
 
